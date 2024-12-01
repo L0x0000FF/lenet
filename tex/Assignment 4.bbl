@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{1998Gradient}
+Y~Lecun and L~Bottou.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{2012ImageNet}
+Alex Krizhevsky, I.~Sutskever, and G.~Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems}, 25(2), 2012.
+
+\bibitem{redmon2016you}
+J~Redmon.
+\newblock You only look once: Unified, real-time object detection.
+\newblock 2016.
+
+\end{thebibliography}
